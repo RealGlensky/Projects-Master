@@ -6,6 +6,6 @@ Welcome to my central project hub! Here is a list of some of my favorite built p
 * Cursor
 
 ## 🚀 Top 3
-*   [Resume Building Social Network](https://ResumeBook.replit.app) - A social networking site designed specifically for Resume building - built for schools and individuals. Git Repository: https://github.com/RealGlensky/ResumeBook
-*   [Duolingo for Learning Geography](https://worldcap.replit.app) - A web app for learning geography (countries & capital cities of the world. Git Repository: https://github.com/RealGlensky/GeographyMaster
-*   [Cards game "Queens"](https://queens-cardgame.replit.app) - A mobile card game. Git Repository: (https://github.com/RealGlensky/Queens)
+*   [Resume Building Social Network](https://ResumeBook.replit.app) — ([Git Repository](https://github.com/RealGlensky/ResumeBook)) — A social networking site designed specifically for Resume building, built for schools and individuals.
+*   [Duolingo for Learning Geography](https://worldcap.replit.app) — ([Git Repository](https://github.com/RealGlensky/GeographyMaster)) — A web app for learning geography (countries & capital cities of the world).
+*   [Cards game "Queens"](https://queens-cardgame.replit.app) — ([Git Repository](https://github.com/RealGlensky/Queens)) — A mobile card game.
