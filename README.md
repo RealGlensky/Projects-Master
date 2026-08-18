@@ -1,17 +1,11 @@
 # Project Portfolio
 
-Welcome to my central project hub! Here is a list of all my built projects to-date. This covers projects built in, and with a combination of:
+Welcome to my central project hub! Here is a list of some of my favorite built projects to-date. This covers projects built in, and with a combination of:
 * Replit
 * Claude Code
 * Cursor
 
-## 💻 Replit
-*   [Resume Building Social Netowrk](https://github.com) - A social networking site designed specifically for Resume building - built for schools and individuals.
-*   [Duolingo for Learning Geography](https://github.com) - A web app for learning geography (countries & capital cities of the world).
-*   [Cards game "Queen's"](https://github.com) - A mobile card game.
-
-## 📊 Claude Code
-
-
-## 🛠️ Cursor
-
+## 🚀 Top 3
+*   [Resume Building Social Netowrk](https://ResumeBook.replit.app) - A social networking site designed specifically for Resume building - built for schools and individuals. Git Repository: https://github.com/RealGlensky/ResumeBook
+*   [Duolingo for Learning Geography](https://worldcap.replit.app) - A web app for learning geography (countries & capital cities of the world. Git Repository: https://github.com/RealGlensky/GeographyMaster
+*   [Cards game "Queen's"](https://queens-cardgame.replit.app) - A mobile card game. Git Repository: (https://github.com/RealGlensky/Queen-s)
